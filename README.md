@@ -6,4 +6,4 @@ The availability of large quantity of cheap sensors brought forth by the so call
 
  In this lecture, we will work through the entire process of how to analyze and model time series data, how to detect and extract trend and seasonality effects and how to implement the ARIMA class of forecasting models. Both real and synthetic datasets will be used to illustrate the different kinds of models and their underlying assumptions.
 
-Slides: __Coming Soon__
+Slides: https://data4sci.com/landing/timeseries/
